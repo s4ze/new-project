@@ -1,0 +1,1 @@
+you can write here text not as imporant as in main readme file, but that could be useful for working with code
